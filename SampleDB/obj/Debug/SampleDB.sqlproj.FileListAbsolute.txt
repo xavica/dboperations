@@ -1,0 +1,10 @@
+C:\Github\DBSolution\SampleDB\bin\Debug\SampleDB.dacpac
+C:\Github\DBSolution\SampleDB\bin\Debug\SampleDB.dll
+C:\Github\DBSolution\SampleDB\bin\Debug\SampleDB.pdb
+C:\Github\DBSolution\SampleDB\obj\Debug\SampleDB.dll
+C:\Github\DBSolution\SampleDB\obj\Debug\SampleDB.pdb
+C:\Github\dboperations\SampleDB\bin\Debug\SampleDB.dacpac
+C:\Github\dboperations\SampleDB\bin\Debug\SampleDB.dll
+C:\Github\dboperations\SampleDB\bin\Debug\SampleDB.pdb
+C:\Github\dboperations\SampleDB\obj\Debug\SampleDB.dll
+C:\Github\dboperations\SampleDB\obj\Debug\SampleDB.pdb

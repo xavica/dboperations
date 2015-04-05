@@ -1,0 +1,9 @@
+C:\Github\DBSolution\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Github\DBSolution\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Github\DBSolution\DataLayer\bin\Debug\DataLayer.dll
+C:\Github\DBSolution\DataLayer\bin\Debug\DataLayer.pdb
+C:\Github\DBSolution\DataLayer\bin\Debug\Dapper.dll
+C:\Github\DBSolution\DataLayer\bin\Debug\Dapper.pdb
+C:\Github\DBSolution\DataLayer\bin\Debug\Dapper.xml
+C:\Github\DBSolution\DataLayer\obj\Debug\DataLayer.dll
+C:\Github\DBSolution\DataLayer\obj\Debug\DataLayer.pdb
